@@ -1,0 +1,12 @@
+data:
+  aspects:
+    - FOOD#QUALITY
+    - SERVICE#GENERAL
+    - RESTAURANT#PRICES
+    - AMBIENCE#GENERAL
+    - RESTAURANT#GENERAL
+    - FOOD#STYLE_OPTIONS
+  sentiments:
+    - neutral
+    - negative
+    - positive
